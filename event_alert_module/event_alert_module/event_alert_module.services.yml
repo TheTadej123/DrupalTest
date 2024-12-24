@@ -1,0 +1,3 @@
+services:
+  event_alert_module.event_date_service:
+    class: Drupal\event_alert_module\Service\EventDateService

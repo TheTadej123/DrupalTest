@@ -1,0 +1,5 @@
+name: 'Event Alert Module'
+type: module
+description: 'A simple module that display a alert about when the event is taking place.'
+core_version_requirement: ^10 || ^9
+package: Custom
